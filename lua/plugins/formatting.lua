@@ -17,6 +17,8 @@ return {
         yaml = { "prettierd" },
         markdown = { "prettierd" },
         graphql = { "prettierd" },
+        blade = { "blade-formatter" },
+        php = { "phpcbf" },
       },
       formatters = {
         prettierd = {
