@@ -17,7 +17,6 @@ return {
       "typescript",
       "vim",
       "yaml",
-      "astro",
       "svelte",
     },
   },
