@@ -32,7 +32,6 @@ return {
         "prettierd",
         "prettier",
         "shfmt",
-        "tailwindcss-language-server",
         "prettier",
         "stylua", -- lua formatter
         "isort", -- python formatter
