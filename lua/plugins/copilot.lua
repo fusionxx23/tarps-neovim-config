@@ -4,6 +4,7 @@ return {
   build = ":Copilot auth",
   event = "InsertEnter",
   opts = {
+    model = "gpt-4o-turbo",
     suggestion = {
       enabled = not vim.g.ai_cmp,
       auto_trigger = true,
